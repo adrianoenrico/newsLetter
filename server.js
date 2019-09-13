@@ -76,7 +76,4 @@ app.post("/signup", function(req,res){
    
     
 });
-// mailchimp api key
-// e3307ceda92d87f4496b70940899bd9e-us4
-// id for the Unational: df86c16580
 
